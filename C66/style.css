@@ -1,0 +1,28 @@
+#apps{
+    background-color: lightblue;
+}
+
+.line {
+    height: 6px;
+    background-color: red;
+    width: 70px;
+    margin: 8px auto;
+}
+
+body{
+    text-align: center;
+}
+
+#juegos{
+    background-color: lightcoral;
+}
+
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-family: sans-serif;
+}
+
+#chatbot{
+    background-color: lightyellow;
+}
